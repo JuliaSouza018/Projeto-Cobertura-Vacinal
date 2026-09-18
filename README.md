@@ -67,7 +67,6 @@ projeto-cobertura-vacinal/
 │   └── 03_consultas_analiticas.sql
 ├── powerbi/
 │   ├── TelaPoweBI.png
-│   └── GUIA_DASHBOARD_POWERBI.md
 └── docs/
     ├── ETAPA1_pesquisa_bases.md
     ├── ETAPA2_definicao_problema.md
